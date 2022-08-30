@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hola mundo</string>
+
+    <string name="app_descriptions">este codigo es para el taller de computacion movil</string>
+</resources>
